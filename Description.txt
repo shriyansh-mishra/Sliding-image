@@ -1,0 +1,8 @@
+#----Image slider webiste----#
+
+this website is designed for sliding of proposed images within the page using arrows to navigate
+features like
+* transition 
+* background image 
+* multiple image navigation 
+are in the web page 
